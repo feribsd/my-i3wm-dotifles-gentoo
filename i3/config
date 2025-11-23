@@ -110,7 +110,7 @@ bindsym $mod+b exec firefox
 
 exec --no-startup-id picom --config ~/.config/picom/picom.conf
 exec --no-startup-id gentoo-pipewire-launcher &
-exec --no-startup-id feh --bg-fill /home/feribsd/Downloads/5841274652527889239.jpg
+exec --no-startup-id feh --bg-fill ~/Downloads/5841274652527889239.jpg
 
 gaps inner 15
 gaps outer 20
